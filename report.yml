@@ -4,10 +4,10 @@ city: New York
 is_student: true
 grade:
  - subject: Math
-   grade: Z
+   grade: F
  - subject: English
-   grade: Z
+   grade: F
  - subject: Science
-   grade: Z+
+   grade: F+
  - subject: Computer
-   grade: Z+
+   grade: F+
